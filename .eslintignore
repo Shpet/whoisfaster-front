@@ -1,0 +1,10 @@
+components.d.ts
+nuxt.d.ts
+dist
+.nuxt
+.output
+assets/polyfills/js/webauthn.js
+.husky
+.idea
+.vscode
+node_modules
