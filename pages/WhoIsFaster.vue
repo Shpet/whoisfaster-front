@@ -11,7 +11,7 @@
       :class="{ 'faster__trigger--disabled': isStarted }"
       @click="startGame"
     >
-      Start
+      Play
     </button>
   </div>
 </template>
